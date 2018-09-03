@@ -3,7 +3,7 @@ layout: page
 title: Location
 ---
 
-The third GAP days will take place in
+The eighth GAP days will take place in
 [Siegen](http://www.siegen.de/) at the
 [Department of Mathematics](http://www.mathematik.uni-siegen.de/).
 
