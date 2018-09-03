@@ -7,11 +7,11 @@
 - name: Dmitrii Pasechnik
   affiliation: Oxford University
 
-- name: Kamal Saleh
-  affiliation: University of Siegen
-
 - name: Jan De Beule
   affiliation: Vrije Universiteit Brussel
+
+- name: Kamal Saleh
+  affiliation: University of Siegen
 
 - name: Manuel Delgado
   affiliation: CMUP and Faculty of Sciences of The University of Porto
@@ -27,6 +27,9 @@
 
 - name: Pascal Kattler
   affiliation: Universität des Saarlandes
+
+- name: Reimer Behrends
+  affiliation: TU Kaiserslautern
 
 - name: Sebastian Gutsche
   affiliation: University of Siegen
