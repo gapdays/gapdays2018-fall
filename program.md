@@ -24,13 +24,15 @@ The talks will usually take place after lunch. The titles will be announced in S
 
 - **Tuesday**
   - 09:30: Stand-Up: Agenda for today
-  - 10:00 -- 10:45: Markus Pfeiffer et al<br>
-   *LibGAP: GAP as a library for use in Jupyter, OSCAR, SageMath, ...*
+  - 10:00 -- 10:45: Thomas Breuer, Sebastian Gutsche, ...<br>
+   *GAP-Julia integration*
   - 12:00: *Lunch (in-house Mensa)*
   - 16:30: Stand-Up: todays results
 
 - **Wednesday**
   - 09:30: Stand-Up: Agenda for today
+  - 10:00 -- 10:45: Markus Pfeiffer et al<br>
+   *LibGAP: GAP as a library for use in Jupyter, OSCAR, SageMath, ...*
   - 12:00: *Lunch (in-house Mensa)*
   - 16:30: Stand-Up: todays results
   - 19:00: Workshop dinner at the Restaurant [Gianni & Giulia](https://trattoria-gianni-giulia.de)
