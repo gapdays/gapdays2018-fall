@@ -59,11 +59,11 @@ revisit one of these, or some other subject, please contact the organizers.
 2. __MatrixObj__ (continue work from the [previous GAP Days](https://www.gapdays.de/gapdays2017-spring/10_topic/))
 3. __Documentation, Tutorials, Accessibility__ (talk about how to improve them, and ideally also actually do that)
 4. __Website__ (we probably need to a completely new one; can we hire somebody to do it? what is needed? etc.)
-x
+
 Some other possibly ideas for topics:
 
 6. __Proper package namespaces in GAP__ Max has some ideas...
-7. __Package manager for GAP__
+7. __Package manager for GAP__ (Dima, ...)
 8. __Implement `make install`__ (Max, ...)
 9. __Metapackages for GAP distribution__ (See https://github.com/gap-system/gap/pull/2267)			
 10. ... your idea here ???
