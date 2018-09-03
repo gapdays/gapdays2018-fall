@@ -65,4 +65,5 @@ Some other possibly ideas for topics:
 6. __Proper package namespaces in GAP__ Max has some ideas...
 7. __Package manager for GAP__
 8. __Implement `make install`__ (Max, ...)
-9. ... your idea here ???
+9. __Metapackages for GAP distribution__ (See https://github.com/gap-system/gap/pull/2267)			
+10. ... your idea here ???
