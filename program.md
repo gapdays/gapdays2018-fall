@@ -48,6 +48,8 @@ The talks will usually take place after lunch. The titles will be announced in S
 		 
 - **Friday:**
   - 09:30: Stand-Up: Agenda for today
+  - 10:00 -- 10:45: Kamal Saleh<br>
+   [*Implementation of Quillen model categories*](/gapdays2018-fall/abstracts/quillen)
   - 12:00: *Lunch (in-house Mensa)*
   - 15:30: End of the meeting
 
