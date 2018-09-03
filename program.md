@@ -20,6 +20,8 @@ The talks will usually take place after lunch. The titles will be announced in S
 - **Monday**
   - 10:00: *Opening*
   - 12:00: *Lunch (in-house Mensa)*
+  - 13:00: Meta-packaging (skype conference with Alexander Konovalov)<br>
+   (currently relevant for the homalg_project and the CAP_project)
   - 16:30: Stand-Up: todays results
 
 - **Tuesday**
