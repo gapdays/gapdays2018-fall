@@ -30,7 +30,7 @@ More detailed information can be found on [the program page]({{ site.baseurl }}/
 The workshop will take place at the {{ site.location }}. Information about the
 exact location and accommodation options
 can be found on [the location page]({{ site.baseurl }}/location).
-Please [register]({{ site.baseurl }}/registration) if you plan to attend, to help us plan the event.
+Please [register]({{ site.baseurl }}/registration) if you plan to attend, to help us better prepare the event.
 
 ## <a name="contact"></a> Contact
 
