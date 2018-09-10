@@ -33,7 +33,7 @@ The talks will usually take place after lunch. The titles will be announced in S
 
 - **Wednesday**
   - 09:30: Stand-Up: Agenda for today
-  - 10:00 -- 10:45: Markus Pfeiffer et al<br>
+  - 10:00 -- 10:45: Markus Pfeiffer<br>
    *LibGAP: GAP as a library for use in Jupyter, OSCAR, SageMath, ...*
   - 12:00: *Lunch (in-house Mensa)*
   - 16:30: Stand-Up: todays results
