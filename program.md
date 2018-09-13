@@ -26,8 +26,8 @@ The talks will usually take place after lunch. The titles will be announced in S
 
 - **Tuesday**
   - 09:30: Stand-Up: Agenda for today
-  - 10:00 -- 10:45: Thomas Breuer and Sebastian Gutsche<br>
-   *GAP-Julia integration*
+  - 10:00 -- 10:45: Sebastian Gutsche<br>
+   [*Integrating GAP and Julia - JuliaInterface and Gap.jl*](/gapdays2018-fall/abstracts/OSCAR)
   - 12:00: *Lunch (in-house Mensa)*
   - 16:30: Stand-Up: todays results
 
