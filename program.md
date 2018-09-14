@@ -34,7 +34,7 @@ The talks will usually take place after lunch. The titles will be announced in S
 - **Wednesday**
   - 09:30: Stand-Up: Agenda for today
   - 10:00 -- 10:45: Markus Pfeiffer<br>
-   *LibGAP: GAP as a library for use in Jupyter, OSCAR, SageMath, ...*
+   [*LibGAP: GAP as a library for use in Jupyter, OSCAR, SageMath, ...*](/gapdays2018-fall/abstracts/libgap)
   - 12:00: *Lunch (in-house Mensa)*
   - 16:30: Stand-Up: todays results
   - 19:00: Workshop dinner at the Restaurant [Piazza Da Vinci](https://www.piazza-da-vinci-siegen.de)
