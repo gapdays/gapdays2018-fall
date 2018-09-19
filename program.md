@@ -43,6 +43,7 @@ The talks will usually take place after lunch. The titles will be announced in S
   - 09:30: Stand-Up: Agenda for today
   - 10:00 -- 10:45: Alexander D. Rahm<br>
    [*The Rigid Facets Subdivision Algorithm in GAP*](/gapdays2018-fall/abstracts/subdivision)
+  - 11:55: Group photo! (please be there)
   - 12:00: *Lunch (in-house Mensa)*
   - 16:30: Stand-Up: todays results
 		 
